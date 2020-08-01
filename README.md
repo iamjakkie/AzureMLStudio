@@ -1,0 +1,2 @@
+# AzureMLStudio
+AzureMLStudio SDK tests
